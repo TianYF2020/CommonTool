@@ -1,0 +1,5 @@
+/home/tianyafei/study/gittest/CommonTool/out/build/GCC 13.2.0 x86_64-linux-gnu/CMakeFiles/edit_cache.dir
+/home/tianyafei/study/gittest/CommonTool/out/build/GCC 13.2.0 x86_64-linux-gnu/CMakeFiles/rebuild_cache.dir
+/home/tianyafei/study/gittest/CommonTool/out/build/GCC 13.2.0 x86_64-linux-gnu/project/CMakeFiles/demo.dir
+/home/tianyafei/study/gittest/CommonTool/out/build/GCC 13.2.0 x86_64-linux-gnu/project/CMakeFiles/edit_cache.dir
+/home/tianyafei/study/gittest/CommonTool/out/build/GCC 13.2.0 x86_64-linux-gnu/project/CMakeFiles/rebuild_cache.dir

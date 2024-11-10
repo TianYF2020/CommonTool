@@ -1,0 +1,3 @@
+/home/tianyafei/study/gittest/CommonTool/project/build/CMakeFiles/demo.dir
+/home/tianyafei/study/gittest/CommonTool/project/build/CMakeFiles/edit_cache.dir
+/home/tianyafei/study/gittest/CommonTool/project/build/CMakeFiles/rebuild_cache.dir

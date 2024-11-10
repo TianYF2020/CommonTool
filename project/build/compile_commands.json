@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tianyafei/study/gittest/CommonTool/project/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/demo.dir/main.cpp.o -c /home/tianyafei/study/gittest/CommonTool/project/main.cpp",
+  "file": "/home/tianyafei/study/gittest/CommonTool/project/main.cpp",
+  "output": "CMakeFiles/demo.dir/main.cpp.o"
+}
+]
